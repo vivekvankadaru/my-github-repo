@@ -1,3 +1,5 @@
 H=Just another file created in feature 1 branch
 
-This file was modified locally
+This file was modified locally.
+
+THis line is modified in feature2 branch
